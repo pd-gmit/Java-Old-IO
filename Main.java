@@ -1,8 +1,7 @@
-package page289;
-
-import java.io.File;
-
 //Ref page 289 Java In a NutShell 6th Ed
+
+package page289;
+import java.io.File;
 
 public class Main {
 
